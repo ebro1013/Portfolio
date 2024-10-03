@@ -3,4 +3,4 @@ Below are some samples of Jupyter notebooks from my class "Topics in Data Scienc
 
 [Click here to view my third homework assignment](https://github.com/ebro1013/Portfolio/blob/main/Homework%203.ipynb)
 
-[Click here to view my third homework assignment in html](https://github.com/ebro1013/Portfolio/blob/main/Homework%203.html)
+[Click here to view my third homework assignment in html](Homework%203.html)
